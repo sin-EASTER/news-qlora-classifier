@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+datasets
+evaluate
+transformers>=4.44
+torch
+peft
+accelerate
+bitsandbytes
+huggingface_hub
